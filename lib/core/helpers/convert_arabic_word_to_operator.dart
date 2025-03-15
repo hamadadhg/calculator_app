@@ -1,3 +1,4 @@
+/*
 String convertArabicWordToMath({required String arabicWord}) {
   //this file is required because in mic i say ضرب, قسمة, باقي القسمة but not work because the the mic take from me arabic speech like this ىؤتىينؤى
   Map<String, String> replaceArabicWordToMath = {
@@ -19,3 +20,4 @@ String convertArabicWordToMath({required String arabicWord}) {
   //you say 5 زائد (5) will return 5+5, i put () because i can't but زائد in the middle between 5 and 5
   return arabicWord;
 }
+*/

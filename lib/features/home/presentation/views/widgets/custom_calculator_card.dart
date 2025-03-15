@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/helpers/color_to_calculator_helper.dart';
 import 'package:calculator/core/styles/style_to_texts.dart';
 import 'package:flutter/material.dart';
@@ -30,3 +31,4 @@ class CustomCalculatorCard extends StatelessWidget {
     );
   }
 }
+*/

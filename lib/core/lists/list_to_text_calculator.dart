@@ -1,3 +1,4 @@
+/*
 final List<String> listToTextCalculator = [
   'C',
   '(',
@@ -20,3 +21,4 @@ final List<String> listToTextCalculator = [
   '=',
   '-',
 ];
+*/

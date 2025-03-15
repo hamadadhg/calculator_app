@@ -1,3 +1,4 @@
+/*
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class ThemeModeCubit extends Cubit<bool> {
@@ -8,3 +9,4 @@ class ThemeModeCubit extends Cubit<bool> {
     //when the user click on icon mode so this method will trigger and you should emit state against state in the now time
   }
 }
+*/

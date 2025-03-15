@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/styles/style_to_colors.dart';
 import 'package:calculator/features/home/data/services/microphone_calculator_service.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/calc/calculator_cubit.dart';
@@ -66,3 +67,4 @@ class _CustomRecordState extends State<CustomRecord> {
     );
   }
 }
+*/

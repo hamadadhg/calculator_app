@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/utils/observer/simple_bloc_observer.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/calc/calculator_cubit.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/theme/theme_mode_cubit.dart';
@@ -38,3 +39,4 @@ class CalculatorApp extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/helpers/convert_arabic_word_to_numbers.dart';
 import 'package:calculator/core/helpers/convert_arabic_word_to_operator.dart';
 
@@ -13,3 +14,4 @@ String finishEnsureFromTwoConvertHelper({required String wordFromMic}) {
   //if the operation was like this(" 0 + 0 ") so i use .trim() to become like this("0 + 0")
   return wordFromMic;
 }
+*/

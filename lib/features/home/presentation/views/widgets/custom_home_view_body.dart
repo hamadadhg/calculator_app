@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/features/home/presentation/views/widgets/custom_sliver_grid_view.dart';
 import 'package:calculator/features/home/presentation/views/widgets/custom_top_section.dart';
 import 'package:flutter/material.dart';
@@ -7,16 +8,16 @@ class CustomHomeViewBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.sizeOf(context);
+    double width = MediaQuery.sizeOf(context).width;
     return Padding(
-      padding: EdgeInsets.symmetric(horizontal: size.width * 0.03),
-      child: CustomScrollView(
+      padding: EdgeInsets.symmetric(horizontal: width * 0.03),
+      child: const CustomScrollView(
         slivers: [
-          const SliverToBoxAdapter(child: CustomTopSection()),
-          const CustomSliverGridView(),
-          SliverToBoxAdapter(child: SizedBox(height: size.height * 0.03)),
+          SliverToBoxAdapter(child: CustomTopSection()),
+          CustomSliverGridView(),
         ],
       ),
     );
   }
 }
+*/

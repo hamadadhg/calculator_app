@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/styles/style_to_colors.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/theme/theme_mode_cubit.dart';
 import 'package:flutter/material.dart';
@@ -21,3 +22,4 @@ Color colorToCalculatorHelper({
     return isDarkMode ? StyleToColors.blackColor : StyleToColors.whiteColor;
   }
 }
+*/

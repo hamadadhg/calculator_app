@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/styles/style_to_texts.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/calc/calculator_cubit.dart';
 import 'package:calculator/features/home/presentation/views/widgets/custom_app_bar.dart';
@@ -40,3 +41,4 @@ class CustomTopSection extends StatelessWidget {
     );
   }
 }
+*/

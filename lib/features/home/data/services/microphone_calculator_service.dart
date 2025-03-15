@@ -1,3 +1,4 @@
+/*
 import 'package:speech_to_text/speech_to_text.dart';
 
 class MicrophoneCalculatorService {
@@ -30,3 +31,4 @@ class MicrophoneCalculatorService {
     //if the user click another click on mic or stop on talking so will stop the mic on work
   }
 }
+*/

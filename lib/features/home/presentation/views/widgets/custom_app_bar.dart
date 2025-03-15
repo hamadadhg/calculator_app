@@ -1,3 +1,4 @@
+/*
 import 'package:calculator/core/styles/style_to_colors.dart';
 import 'package:calculator/features/home/presentation/managers/cubits/theme/theme_mode_cubit.dart';
 import 'package:calculator/features/home/presentation/views/widgets/custom_icon_button.dart';
@@ -28,3 +29,4 @@ class CustomAppBar extends StatelessWidget {
     );
   }
 }
+*/

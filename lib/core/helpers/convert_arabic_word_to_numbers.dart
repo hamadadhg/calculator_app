@@ -1,3 +1,4 @@
+/*
 String convertArabicWordToNumber({required String arabicWord}) {
   //this file is required because in mic i say صفر but not work because the the mic didn't know that the صفر is 0
   Map<String, String> replaceArabicWordToNumber = {
@@ -56,16 +57,6 @@ String convertArabicWordToNumber({required String arabicWord}) {
     'تسعين ألف': '90000',
     'مية ألف': '100000',
     'مليون': '1000000',
-    'مليونين': '1000000',
-    'تلت ملايين': '1000000',
-    'اربع ملايين': '1000000',
-    'خمس ملايين': '1000000',
-    'ست ملايين': '1000000',
-    'سبع ملايين': '1000000',
-    'تمن ملايين': '1000000',
-    'تسع ملايين': '1000000',
-    'عشر ملايين': '1000000',
-    'مليار': '1000000000',
   };
   replaceArabicWordToNumber.forEach((word, number) {
     arabicWord = arabicWord.replaceAll(word, number).trim();
@@ -75,3 +66,4 @@ String convertArabicWordToNumber({required String arabicWord}) {
   //you say صفر will return 0
   return arabicWord;
 }
+*/
